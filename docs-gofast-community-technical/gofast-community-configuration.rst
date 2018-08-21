@@ -28,9 +28,9 @@ L'écran de configuration de l'étape 1 est représenté comme ci-dessous :
 
 Sur cet écran vous devez remplir plusieurs champs avant de passer à l'étape suivante : 
 
-1. **New Sub-Domain** : ce premier champs va correspondre au nom présenté avant votre nom de domaine dans l'URL de votre GoFAST Community
-2. **New Domain** : ce second champs va venir se positionner après le sub-domain dans l'URL. Généralement les entreprises suggère le nom de leur enseigne. 
-3. **New extension** : vous avez la possibilité de choisir l'extension de votre choix (.com, .fr, .es, .org, ...) 
+   1. **New Sub-Domain** : ce premier champs va correspondre au nom présenté avant votre nom de domaine dans l'URL de votre GoFAST Community
+   2. **New Domain** : ce second champs va venir se positionner après le sub-domain dans l'URL. Généralement les entreprises suggère le nom de leur enseigne. 
+   3. **New extension** : vous avez la possibilité de choisir l'extension de votre choix (.com, .fr, .es, .org, ...) 
 
 Cette étape va correspondre à la configuration de votre URL pour accéder à votre GoFAST en Full Web par la suite. 
 
@@ -44,8 +44,8 @@ Dans cette étape vous avez deux possibilités de créer votre certificat SSL de
    :alt: 
 
 La première option va vous demander de télécharger vos certificats, afin de pouvoir utiliser votre propre Certificat SSL :
-- **Key Private** :  
-- **Key Public** : 
+  - **Key Private** :
+  - **Key Public** :
 
 La deuxième option va vous permettre de créer votre certificat de sécurité SSL en même temps que la configuration de votre GoFAST Community. 
 Plusieurs champs vont vous être demander pour la configurer, voir copie d'écran ci-dessous.
@@ -58,13 +58,13 @@ Ces champs sont obligatoires pour configurer votre certificat SSL
 .. figure:: /media-guide/Configure-SSL-Certificate-2.png
    :alt: 
       
-1. **Country**
-2. **State or Province**
-3. **City**
-4. **Company** 
-5. **Organization unit** : Correspond à votre département 
-6. **Web site name**
-7. **E-mail address** 
+   1. **Country**
+   2. **State or Province**
+   3. **City**
+   4. **Company** 
+   5. **Organization unit** : Correspond à votre département 
+   6. **Web site name**
+   7. **E-mail address** 
 
 
 
@@ -94,7 +94,7 @@ Etape 4 : Create Admin User
 
 La troisième étape correspond au compte utilisateur "administrateur" qui permettra les différents paramétrages sur votre GoFAST Community. 
 
-Vous allez alors devoir choisir un login, password, 
+Vous allez alors devoir choisir un login, password, email address rattaché à ce compte. 
 
 .. figure:: /media-guide/Create-Admin-User-1.png
    :alt:
@@ -109,7 +109,8 @@ Etape 5 : Finish Configuration
 
 Cette dernière étape est une synthèse de toutes les informations que vous avez rempli préalablament avant la configuration finale de votre GoFAST Community 
 
-.. WARNING :: Attention, après avoir cliqué sur le bouton "Finish Configuration" vous ne pourrez plus retourner sur les étapes précédéentes. Il est alors important de devoir vérifier tous les champs que vous avez rempli préalablement. 
+.. WARNING :: 
+   Attention, après avoir cliqué sur le bouton "Finish Configuration" vous ne pourrez plus retourner sur les étapes précédéentes. Il est alors important de devoir vérifier tous les champs que vous avez rempli préalablement. 
 
 .. figure:: /media-guide/Finish-Configuration-Community.png
    :alt: 
