@@ -7,4 +7,4 @@ Documentation GoFAST
    :maxdepth: 1
    :caption: Documentation GoFAST Community 
    
-   docs-gofast-community-technical/gofast-community-technical
+   docs-gofast-community-technical/gofast-community-configuration
