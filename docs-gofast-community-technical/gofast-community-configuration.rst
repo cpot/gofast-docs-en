@@ -43,7 +43,8 @@ Dans cette étape vous avez deux possibilités de créer votre certificat SSL de
 .. figure:: /media-guide/Configure-SSL-1.png 
    :alt: 
 
-La première option va vous demander de télécharger vos certificats, afin de pouvoir utiliser votre propre Certificat SSL :
+La première option va vous demander de télécharger vos certificats, afin de pouvoir utiliser votre propre Certificat SSL
+
   - **Key Private** :
   - **Key Public** :
 
@@ -110,7 +111,7 @@ Etape 5 : Finish Configuration
 Cette dernière étape est une synthèse de toutes les informations que vous avez rempli préalablament avant la configuration finale de votre GoFAST Community 
 
 .. WARNING :: 
-   Attention, après avoir cliqué sur le bouton "Finish Configuration" vous ne pourrez plus retourner sur les étapes précédéentes. Il est alors important de devoir vérifier tous les champs que vous avez rempli préalablement. 
+   Attention, après avoir cliqué sur le bouton "Finish Configuration" vous ne pourrez plus retourner sur les étapes précédentes. Il est alors important de devoir vérifier tous les champs que vous avez rempli préalablement. 
 
 .. figure:: /media-guide/Finish-Configuration-Community.png
    :alt: 
