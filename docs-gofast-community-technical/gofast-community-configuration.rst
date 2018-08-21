@@ -2,6 +2,9 @@
 GoFAST Community : Configuration
 ================================
 
+...[EN COURS DE REDACTION]...
+
+
 .. figure:: /media-guide/Logo-Community.png
    :alt: 
 
