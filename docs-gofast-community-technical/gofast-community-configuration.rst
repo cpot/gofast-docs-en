@@ -5,17 +5,16 @@ GoFAST Community : Configuration
 .. figure:: /media-guide/Logo-Community.png
    :alt: 
 
-.. NOTE:: 
-   Afin de pouvoir configurer votre GoFAST Community, vous devez tout d'abord vous rendre sur l'adresse IP correspondant à votre serveur (sur lequel vous avez instancié GoFAST). 
-   Example : http://35.180.66.5
+.. note:: Afin de pouvoir configurer votre GoFAST Community, vous devez tout d'abord vous rendre sur l'adresse IP correspondant à votre serveur (sur lequel vous avez instancié GoFAST). 
+          Example : http://35.180.66.5
 
 Pour finaliser la configuration de votre GoFAST Community, 5 étapes sont requises : 
 
-  - Change name domaine
-  - Configure SSL Certificate
-  - Configure SMTP Server
-  - Create Admin User
-  - Finish Configuration 
+* Change name domaine
+* Configure SSL Certificate
+* Configure SMTP Server
+* Create Admin User
+* Finish Configuration 
 
 Ci-après nous allons détailler chaque étape de cette configuration et en quoi correspond les différents champs demandés. 
 
