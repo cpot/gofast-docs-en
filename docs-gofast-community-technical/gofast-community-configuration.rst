@@ -8,6 +8,9 @@ GoFAST Community : Configuration
 .. figure:: /media-guide/Logo-Community.png
    :alt: 
 
+Pour toutes les informations concernant les pré-requis et l'installation de GoFAST sur le serveur, veuillez vous diriger vers cette page : https://gofast-docs.readthedocs.io/fr/latest/docs-gofast-technical/gofast-docs-prerequis-installation-serveur.html#gofast-pre-requis-et-installation-serveur
+
+
 .. note:: Afin de pouvoir configurer votre GoFAST Community, vous devez tout d'abord vous rendre sur l'adresse IP correspondant à votre serveur (sur lequel vous avez instancié GoFAST). 
           Example : http://35.180.66.5
 
