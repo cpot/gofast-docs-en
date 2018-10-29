@@ -10,7 +10,6 @@ Documentation GoFAST
    
    docs-gofast-technical/gofast-docs-exploitation
    docs-gofast-technical/gofast-docs-server-prerequiries
-   docs-gofast-users/gofast-docs-known-issues
    
 .. _users-docs:
 
@@ -20,6 +19,8 @@ Documentation GoFAST
 
    docs-gofast-users/gofast-docs-user-manual
    docs-gofast-users/gofast-docs-advanced-utilisation
+   docs-gofast-users/gofast-docs-known-issues
+
 
 .. _release-docs:
 
