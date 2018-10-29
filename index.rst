@@ -10,11 +10,11 @@ Documentation GoFAST
 
 .. toctree::
    :maxdepth: 1
-   :caption: GoFAST Technical Documentation
+   :caption: GoFAST Technical Documentation (TODO)
    
-   docs-gofast-technical/gofast-exploitation
-   docs-gofast-technical/gofast-docs-prerequis-installation-serveur
-   docs-gofast-users/doc-gofast-problemes-connus
+   docs-gofast-technical/gofast-docs-exploitation
+   docs-gofast-technical/gofast-docs-server-prerequiries
+   docs-gofast-users/gofast-docs-known-issues
    
 .. _users-docs:
 
@@ -22,8 +22,8 @@ Documentation GoFAST
    :maxdepth: 1
    :caption: GoFAST User Documentation  
 
-   docs-gofast-users/doc-gofast-guide-utilisateurs
-   docs-gofast-users/doc-gofast-utilisation-avancee
+   docs-gofast-users/gofast-docs-user-manual
+   docs-gofast-users/gofast-docs-advanced-utilisation
 
 .. _release-docs:
 
