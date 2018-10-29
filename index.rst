@@ -1,8 +1,4 @@
 
-
-Documentation GoFAST
-####################
-
 Documentation GoFAST
 ####################
 
