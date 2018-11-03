@@ -41,7 +41,9 @@ If you want to synchronize everything, choose the "root" space, here "Main Repos
 
 Once configured it is possible to do several actions such as open the local synchronization folder, pause the synchronization or change the settings.
 
-.. IMPORTANT:: In the settings it is possible to reduce the synchronization frequency, it is a useful option if CMISSync is widely distributed in the organization because CMISSync can load the GoFAST platform. More precisely, CMISSync consumes bandwidth on server side and CPU.
+.. IMPORTANT:: In the settings it is possible to reduce the synchronization frequency, it is a useful option if CMISSync 
+      is widely distributed in the organization because CMISSync can load the GoFAST platform. More precisely, CMISSync consumes  
+      bandwidth on server side and CPU.
 
 Note   If you make changes offline, when there is a reconnection to the GoFAST server, your version will be uploaded and versioned unless a user has made changes to the GoFAST in the meantime. In this case a "conflict management" is activated (see below).
 UseWhen the computer is connected to the network, CMISSync periodically checks whether documents have been changed on the GoFAST platform. If the documents have been changed, they are copied locally (on your PC).
