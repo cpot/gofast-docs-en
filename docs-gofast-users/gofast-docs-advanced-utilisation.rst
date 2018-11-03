@@ -17,6 +17,7 @@ Introduction
 ------------
 The document is intended to provide instructions for configuring third-party software that runs with the GoFAST platform.
 The complementary tools allow having:
+
 * Mobile working :
 Working in "disconnected" mode (DropBox type)
 Access to GoFAST on mobile devices (tablets, ...) with File Explorer
