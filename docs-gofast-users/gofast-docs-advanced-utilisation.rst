@@ -19,8 +19,9 @@ The document is intended to provide instructions for configuring third-party sof
 The complementary tools allow having:
 
 * Mobile working :
-Working in "disconnected" mode (DropBox type)
-Access to GoFAST on mobile devices (tablets, ...) with File Explorer
+
+ * Working in "disconnected" mode (DropBox type)
+ * Access to GoFAST on mobile devices (tablets, ...) with File Explorer
 Displaying and / or online editing Office documents on your tablet 
 Instant messaging ("chat") on mobile phone
 Videoconferencing on the mobile phone (in browser)
