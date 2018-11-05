@@ -100,13 +100,13 @@ and download **mail.doc** of User A on the PC.
 
 6) Now User B has 2 versions, and must do one of 3 actions:
 
-a) Keep the version of User A: Delete the **mail.doc_UserB-version**
+a. Keep the version of User A: Delete the **mail.doc_UserB-version**
 
-b) Keep the version of User B: Delete **mail.doc** (UserA) and remove the suffix
+b. Keep the version of User B: Delete **mail.doc** (UserA) and remove the suffix
 of the **mail.doc_UserB-version**. In this case the version of B will be overwritten
 on the GoFAST server after versioning.
 
-c) Combine 2 versions in **mail.doc**, and after that delete **mail.doc_UserB-version**.
+c. Combine 2 versions in **mail.doc**, and after that delete **mail.doc_UserB-version**.
 
 .. Danger:: As a precaution, it is better to avoid deleting a local directory in the synchronized tree.
             If you do that, the remote directories will be deleted. 
