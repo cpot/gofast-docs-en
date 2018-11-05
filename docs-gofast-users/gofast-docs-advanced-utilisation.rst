@@ -157,7 +157,7 @@ Some fonts do not exist in Android, the layout may be different from the one on 
 
 Saving can also change the layout slightly.
 
-.. Important:: Whilrsave the document, first it is saved locally on the tablet.
+.. Important:: While saving the document, first it is saved locally on the tablet.
                Once the application is closed (X), synchronization is done with GoFAST.
 
 
