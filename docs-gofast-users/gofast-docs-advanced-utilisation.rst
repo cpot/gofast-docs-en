@@ -170,6 +170,7 @@ that has been opened on the GoFAST. It is necessary to go through all the storag
 which is not very practical. The editor is notified of this bug and a fix should be produced.
 
 While waiting for this hotfix, you can use the " **Citrix ShareFile QuickEdit** " suite.
+
 |image15|
 
 |image16|
