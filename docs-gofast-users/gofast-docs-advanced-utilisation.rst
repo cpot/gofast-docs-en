@@ -178,6 +178,7 @@ While waiting for this hotfix, you can use the " **Citrix ShareFile QuickEdit** 
 Instant messaging ("chat") on mobiles
 ---------------------------------------------
 |image6|
+
 With GoFAST you have a private and secure instant messenger,equivalent to
 "WhatsApp" for your Organization, running on the open standard XMPP.
 
