@@ -85,20 +85,20 @@ If the documents have been changed, they are copied locally (on your PC).
           
 Example of notification (English version)
 
-1. User A and User B have the synchronized file **mail.doc** on their desktop.
+1) User A and User B have the synchronized file **mail.doc** on their desktop.
 
-2. User A and User B disconnect (offline), and each of them edits **mail.doc** locally.
+2) User A and User B disconnect (offline), and each of them edits **mail.doc** locally.
 
-3. User A becomes connected again (online). CMISSync uploads the **mail.doc** version of User A
+3) User A becomes connected again (online). CMISSync uploads the **mail.doc** version of User A
 to the GoFAST server (which creates a new version automatically).
 
-4. User B becomes connected again. CmisSync tries to upload the User B version of **mail.doc**
+4) User B becomes connected again. CmisSync tries to upload the User B version of **mail.doc**
 to the GoFAST server, but finds out that the file has already been modified by User A.
 
-5. On the User B PC, CmisSync renames User B version of **mail.doc** in mail.doc_User B-version
+5) On the User B PC, CmisSync renames User B version of **mail.doc** in mail.doc_User B-version
 and download **mail.doc** of User A on the PC. 
 
-6. Now User B has 2 versions, and must do one of 3 actions:
+6) Now User B has 2 versions, and must do one of 3 actions:
 
 a) Keep the version of User A: Delete the **mail.doc_UserB-version**
 
